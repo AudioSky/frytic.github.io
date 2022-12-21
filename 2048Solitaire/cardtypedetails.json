@@ -1,0 +1,23 @@
+[
+    {
+        "type":"Normal",
+        "unlockLevel":0,
+        "probability":1,
+        "unlockMessage":"",
+        "unlockImage":"None"
+    },
+    {
+        "type":"Star",
+        "unlockLevel":2,
+        "probability":0.1,
+        "unlockMessage":"Эта Карта теперь часть карточной колоды! Объединяйте с любыми картами.",
+        "unlockImage":"Star"
+    },
+    {
+        "type":"Bomb",
+        "unlockLevel":3,
+        "probability":0.05,
+        "unlockMessage":"Теперь у Вас есть Карта Бомба. Объедините их с картами одинакового значения, чтобы взорвать вещи!",
+        "unlockImage":"Bomb"
+    }
+]
